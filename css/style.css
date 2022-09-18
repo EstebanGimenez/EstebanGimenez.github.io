@@ -62,7 +62,7 @@ body {
 .skillsSection,
 .statsSection,
 .portfolioSection {
-	background-color: #00014e;
+	background-color: #04623d;
 	color: #fff;
 }
 
@@ -77,6 +77,7 @@ padding: 100px 0;
 
 .aboutImage {
 	max-width: 100%;
+	max-height: 60%;
 }
 
 
@@ -204,7 +205,7 @@ padding: 100px 0;
 }
 
 .filter .current {
-	background-color: #00014e;
+	background-color: #04623d;
 	border-color: #fff;
 	color: #fff;
 }
@@ -325,7 +326,7 @@ padding: 100px 0;
 }
 
 #navigation {
-	background-color: rgb(76, 76, 76);
+	background-color: rgb(253, 113, 6);
 	padding: 20px 10px;
 	z-index: 100;
 	width: 100%;

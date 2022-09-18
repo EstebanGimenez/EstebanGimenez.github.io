@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Full Stack Web Developer.", "Student.", "Team Work.", "Proactive.", "Creative.", "Dedicated.", "PHP - JS - React - HTML - Node.JS, and more."],
+		strings: ["Abogada.", "Estudiante.", "Trabajo en equipo.", "Proteccion ambiental responsable.", "Soluciones creativas.", "Dedicacion.", "Energias renovables.", "Reciclaje al servicio del ambiente y la salud economica de las Empresas.", "Emisioines CO2."],
 		typeSpeed: 50,
 		loop: true,
 		startDelay: 1000,
