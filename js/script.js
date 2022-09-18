@@ -18,8 +18,8 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Software Engineer.", "Web Developer.", "Student."],
-		typeSpeed: 70,
+		strings: ["Full Stack Web Developer.", "Student.", "Team Work.", "Proactive.", "Creative.", "Dedicated.", "PHP - JS - React - HTML - Node.JS, and more."],
+		typeSpeed: 50,
 		loop: true,
 		startDelay: 1000,
 		showCursor: false
