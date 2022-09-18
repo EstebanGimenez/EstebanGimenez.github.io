@@ -64,6 +64,10 @@ body {
 	padding: 100px 0;
 }
 
+.section1{
+padding: 50px 0;
+}
+
 .aboutImage {
 	max-width: 100%;
 }
@@ -71,6 +75,11 @@ body {
 .skillsSection,
 .contactSection {
 	background-color: #00014e;
+	color: #fff;
+}
+
+.skillsSection1 {
+	background-color: red;
 	color: #fff;
 }
 
