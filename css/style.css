@@ -59,26 +59,30 @@ body {
 .titleMessage .heading .sub {
 	font-size: 23px;
 }
+.skillsSection,
+.statsSection,
+.portfolioSection {
+	background-color: #00014e;
+	color: #fff;
+}
 
 .section {
 	padding: 100px 0;
+
 }
 
 .section1{
-padding: 50px 0;
+padding: 100px 0;
 }
 
 .aboutImage {
 	max-width: 100%;
 }
 
-.skillsSection,
-.contactSection {
-	background-color: #00014e;
-	color: #fff;
-}
 
-.skillsSection1 {
+
+.skillsSection1,
+.contactSection {
 	background-color: black;
 	color: #fff;
 }
@@ -325,7 +329,7 @@ padding: 50px 0;
 }
 
 .copyrightSection {
-	background-color: #00014e;
+	background-color: black;
 	color: #fff;
 	padding: 30px 5px;
 }
@@ -335,7 +339,7 @@ padding: 50px 0;
 }
 
 #navigation {
-	background-color: grey;
+	background-color: rgb(76, 76, 76);
 	padding: 20px 10px;
 	z-index: 100;
 	width: 100%;
